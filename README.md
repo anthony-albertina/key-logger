@@ -1,4 +1,4 @@
-# key-logger
+# Key Logger
 
 This is not meant for malicious use!
 
